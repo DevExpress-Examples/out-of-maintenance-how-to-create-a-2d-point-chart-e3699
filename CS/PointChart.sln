@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointChart", "PointChart\PointChart.csproj", "{E6273A8D-F608-4D7B-BCC4-5F68B34C8CCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointChart.Web", "PointChart.Web\PointChart.Web.csproj", "{FE14F8F7-A8B9-4CB0-8E5E-09A40C9F8BDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6273A8D-F608-4D7B-BCC4-5F68B34C8CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6273A8D-F608-4D7B-BCC4-5F68B34C8CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6273A8D-F608-4D7B-BCC4-5F68B34C8CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6273A8D-F608-4D7B-BCC4-5F68B34C8CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE14F8F7-A8B9-4CB0-8E5E-09A40C9F8BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE14F8F7-A8B9-4CB0-8E5E-09A40C9F8BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE14F8F7-A8B9-4CB0-8E5E-09A40C9F8BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE14F8F7-A8B9-4CB0-8E5E-09A40C9F8BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
