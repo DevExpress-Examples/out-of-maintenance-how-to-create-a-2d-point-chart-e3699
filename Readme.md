@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/PointChart/MainPage.xaml) (VB: [MainPage.xaml](./VB/PointChart/MainPage.xaml))
+<!-- default file list end -->
 # How to create a 2D Point chart
 
 
