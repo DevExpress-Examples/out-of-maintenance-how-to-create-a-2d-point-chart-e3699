@@ -4,6 +4,9 @@
 * [MainPage.xaml](./CS/PointChart/MainPage.xaml) (VB: [MainPage.xaml](./VB/PointChart/MainPage.xaml))
 <!-- default file list end -->
 # How to create a 2D Point chart
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3699)**
+<!-- run online end -->
 
 
 <p>The following example demonstrates how to create a 2D Point chart.</p><br />
